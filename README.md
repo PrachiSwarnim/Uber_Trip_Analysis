@@ -38,7 +38,7 @@ This dashboard is all about understanding *when* people are taking Uber rides. I
 ### What You'll Discover:
 
   * **Global Dynamic Measure:** Just like in the Overview, pick your measure (Total Bookings, Value, or Distance) and watch all the charts update\!
-  * **10-Minute Intervals:** See the ebb and flow of demand throughout the day, broken down into precise 10-minute chunks – perfect for spotting peak hours.
+  * **10-Minute Intervals:** See the shift and flow of demand throughout the day, broken down into precise 10-minute chunks – perfect for spotting peak hours.
   * **Daily Trends:** A simple line chart shows how ride demand changes from Monday to Sunday. Are weekends busier? Do weekdays have predictable spikes?
   * **Hourly Heatmap:** A visual powerhouse\! See at a glance which hours on which days are the absolute busiest. It's like a thermal map for Uber demand\!
 
