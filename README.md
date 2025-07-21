@@ -1,5 +1,7 @@
 # 🚀 Uber Trip Analysis: Unlocking Insights from Your Rides\!
 
+![]
+
 Ever wondered what stories your Uber trips could tell? This project dives deep into Uber trip data using **Power BI** to uncover fascinating trends, boost efficiency, and help make smarter decisions. Think of it as giving Uber a superpower to understand its operations better\!
 
 We've crafted three intuitive dashboards to help you navigate these insights:
