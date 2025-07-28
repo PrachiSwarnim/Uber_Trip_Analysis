@@ -1,6 +1,6 @@
 # Uber Trip Analysis: Unlocking Insights from Your Rides\!
 
-!(https://github.com/PrachiSwarnim/Uber_Trip_Analysis/blob/main/uber_readme_cover_image.png)
+![Project Pipeline](https://github.com/PrachiSwarnim/Uber_Trip_Analysis/blob/main/uber_readme_cover_image.png)
 
 Ever wondered what stories your Uber trips could tell? This project dives deep into Uber trip data using **Power BI** to uncover fascinating trends, boost efficiency, and help make smarter decisions. Think of it as giving Uber a superpower to understand its operations better\!
 
