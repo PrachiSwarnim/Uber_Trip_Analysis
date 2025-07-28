@@ -1,12 +1,12 @@
-# 🚀 Uber Trip Analysis: Unlocking Insights from Your Rides\!
+# Uber Trip Analysis: Unlocking Insights from Your Rides\!
 
-[!https://github.com/PrachiSwarnim/Uber_Trip_Analysis/blob/main/uber_readme_cover_image.png]
+!(https://github.com/PrachiSwarnim/Uber_Trip_Analysis/blob/main/uber_readme_cover_image.png)
 
 Ever wondered what stories your Uber trips could tell? This project dives deep into Uber trip data using **Power BI** to uncover fascinating trends, boost efficiency, and help make smarter decisions. Think of it as giving Uber a superpower to understand its operations better\!
 
 We've crafted three intuitive dashboards to help you navigate these insights:
 
-## 📊 Dashboard 1: The Grand Overview
+## Dashboard 1: The Grand Overview
 
 This is your go-to dashboard for a quick pulse check on all things Uber trips.
 
@@ -33,7 +33,7 @@ This is your go-to dashboard for a quick pulse check on all things Uber trips.
   * **One-Click Reset:** A "Clear Filters" button to wipe all selections and start fresh.
   * **Export Data:** Need the raw numbers? Easily download the data to CSV or Excel.
 
-## ⏰ Dashboard 2: The Time Traveler
+## Dashboard 2: The Time Traveler
 
 This dashboard is all about understanding *when* people are taking Uber rides. It's crucial for optimizing everything from pricing to driver availability\!
 
@@ -44,7 +44,7 @@ This dashboard is all about understanding *when* people are taking Uber rides. I
   * **Daily Trends:** A simple line chart shows how ride demand changes from Monday to Sunday. Are weekends busier? Do weekdays have predictable spikes?
   * **Hourly Heatmap:** A visual powerhouse\! See at a glance which hours on which days are the absolute busiest. It's like a thermal map for Uber demand\!
 
-## 🔍 Dashboard 3: The Deep Dive Details
+## Dashboard 3: The Deep Dive Details
 
 When you need to get down to the nitty-gritty, this tab has your back.
 
@@ -56,7 +56,7 @@ When you need to get down to the nitty-gritty, this tab has your back.
 
 -----
 
-### How It All Works (Under the Hood):
+### How It All Works? :
 
 This project is built with **Power BI**, making use of its powerful features like:
 
