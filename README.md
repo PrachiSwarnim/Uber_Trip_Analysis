@@ -33,7 +33,7 @@ This is your go-to dashboard for a quick pulse check on all things Uber trips.
   * **One-Click Reset:** A "Clear Filters" button to wipe all selections and start fresh.
   * **Export Data:** Need the raw numbers? Easily download the data to CSV or Excel.
 
-## Dashboard 2: The Time Traveler
+## Dashboard 2: The Time Traveller
 
 This dashboard is all about understanding *when* people are taking Uber rides. It's crucial for optimizing everything from pricing to driver availability\!
 
